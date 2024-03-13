@@ -1,0 +1,52 @@
+[
+    {
+      "Id": 1,
+      "Cover": "https://i.ibb.co/R7yShnd/social-media-networking-online-communication-connect-concept.jpg",
+      "Title": "Whispers in the Dark",
+      "Author": "The Enigmatic Odyssey",
+      "Author_img":"https://i.ibb.co/DkYJHMS/close-up-portrait-young-man-isolated-black-wall-real-emotions-male-model-smiling-feeling-happy-facia.jpg",
+      "Reading_time": "12 minutes",
+      "Date": "March 14, 2020",
+      "Hashtags": ["horror", "suspense", "thriller"]
+    },
+    {
+      "Id": 2,
+      "Cover": "https://i.ibb.co/nLyt22y/technology-communication-icons-symbols-concept.jpg",
+      "Title": "Serendipity's Whims",
+      "Author": "Xavier Evergreen",
+      "Author_img": "https://i.ibb.co/MDbM7N4/Img-2.jpg",
+      "Reading_time": "15 minutes",
+      "Date": "April 14, 2024",
+      "Hashtags": ["horror", "suspense", "thriller"]
+    },
+    {
+      "Id": 3,
+      "Cover": "https://i.ibb.co/kcNFnzT/Img-3.jpg",
+      "Title": "Echoes of Eternity",
+      "Author": "Aria Moonshadow",
+      "Author_img": "https://example.com/author4.jpg",
+      "Reading_time": "08 minutes",
+      "Date": "February 14, 2024",
+      "Hashtags": ["horror", "suspense", "thriller"]
+    },
+    {
+      "Id": 4,
+      "Cover": "https://i.ibb.co/kQYvx3q/Img-4.jpg",
+      "Title": "Whispers in the Dark",
+      "Author": "Damien Blackwood",
+      "Author_img": "https://example.com/author4.jpg",
+      "Reading_time": "10 minutes",
+      "Date": "March 14, 2022",
+      "Hashtags": ["horror", "suspense", "thriller"]
+    },
+    {
+      "Id": 5,
+      "Cover": "https://i.ibb.co/ckLh2fd/Background-6.png",
+      "Title": "Songs of the Sirens",
+      "Author": "Lyra Seabreeze",
+      "Author_img": "https://i.ibb.co/VxCRFhK/Img-5.jpg",
+      "Reading_time": "17 minutes",
+      "Date": "October 10, 2014",
+      "Hashtags": ["horror", "suspense", "thriller"]
+    }
+]
